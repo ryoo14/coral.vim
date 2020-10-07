@@ -1,9 +1,7 @@
-# mono_red vim colorscheme
+# coral.vim vim colorscheme
 
-A simple monochrome colorscheme with red highlights.
+A simple monochrome colorscheme with light coral highlights.
 
 If you have any suggestions, feel free to submit a pull request.
 
-Based on [mono_sw](https://github.com/smallwat3r/vim-mono-sw) by Matthieu Petiteau.
-
-Customized with [Vivify](https://bytefluent.com/vivify/)
+Based on [modo_red](https://github.com/Michal-Miko/vim-mono-red).
