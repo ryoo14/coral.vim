@@ -1,7 +1,9 @@
-# coral.vim vim colorscheme
+# coral.vim
 
-A simple monochrome colorscheme with light coral highlights.
+![screenshot](screenshot.png)
 
-If you have any suggestions, feel free to submit a pull request.
+coral.vim is vim colorscheme which is simple monotone with light coral highlights.
+
+Only support terminal vim. Not support GUI.
 
 Based on [modo_red](https://github.com/Michal-Miko/vim-mono-red).
